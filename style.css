@@ -11,3 +11,40 @@ html {
   background-size: cover;
 
 }
+
+h1 {
+  font-size: 3rem; 
+  color: #e2dbdb;
+}
+
+hr {
+  margin: 20px auto;
+  color: #F05F44;
+  border: 3px solid #F05F44;
+  max-width: 65px;
+  opacity: 1;  
+}
+
+.buffer {
+  height: 10rem; 
+}
+
+.btn {
+  font-weight: 700;
+  border-radius: 300px; 
+}
+
+.btn-primary {
+  background-color: #f05f44;
+  border-color: #f05f44;
+}
+
+.btn-primary:hover {
+  background-color: #c4341b;
+  border-color: #c23921;
+  border-width: 4px; 
+}
+
+.btn-xl {
+  padding: 1rem 2rem;
+}
